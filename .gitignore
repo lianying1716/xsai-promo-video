@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+node_modules/
+renders/
+snapshots/
+snap-*/
+verify/
+.hyperframes/
+evidence/*.mp4
+*.log

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Promo Video Pipeline"
+  short_description: "Code-only product promo video pipeline with measurable, vision-model-assisted audit"
+  default_prompt: "Build a product promo video from code and real screenshots using this pipeline: acceptance bar, real assets, reference teardown, render, adversarial audit."
