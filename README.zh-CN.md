@@ -171,6 +171,7 @@ xsai-promo-video/
 │   ├── vision_teardown.py       关键帧板 → 7 视角语义拆解
 │   └── teardown_video.py        六维量化拆解（结构/运动/文字/声音/卡点/配色）
 └── assets/
+    ├── demo-poster.jpg          演示片封面图
     ├── fonts/                   JetBrains Mono（OFL）
     └── starter/my-film/         可直接运行的 12s 骨架（开箱 0 error）
 ```

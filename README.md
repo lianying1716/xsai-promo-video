@@ -78,6 +78,7 @@ xsai-promo-video/
 │   ├── vision_teardown.py         contact sheets → 7-angle vision-model teardown
 │   └── teardown_video.py        six-dimension quantitative teardown
 └── assets/
+    ├── demo-poster.jpg          poster for the embedded demo
     ├── fonts/                   JetBrains Mono (OFL)
     └── starter/my-film/         a runnable 12s composition
 ```
