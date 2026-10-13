@@ -2,6 +2,14 @@
 
 `xsai-promo-video` — a code-only product promo video pipeline with measurable, vision-model-assisted audit.
 
+> **中文说明见 [README.zh-CN.md](README.zh-CN.md)** ｜ A Chinese guide is available at [README.zh-CN.md](README.zh-CN.md).
+>
+> **本视频使用 DeepSeek 7 轮对话产出。** (Produced through 7 rounds of DeepSeek conversation — no manual editing.)
+
+<video src="demo/xsai-promo-video-demo.mp4" controls muted loop width="100%"></video>
+
+*59.9s · 1920×1080 · 30fps — 直接下载：[demo/xsai-promo-video-demo.mp4](demo/xsai-promo-video-demo.mp4)*
+
 Build a product promo / feature / launch video **entirely from code plus real product screenshots** —
 no editor, no timeline scrubbing, no manual cutting. Built for people who can write code but don't
 edit video.
@@ -41,8 +49,11 @@ Then read `SKILL.md` and work the six steps. `references/pipeline-checklist.md` 
 ## Layout
 
 ```text
-xsai-产品宣传视频制作/
+xsai-promo-video/
 ├── SKILL.md                     the entrypoint: workflow, non-negotiables, routing
+├── README.md                    English guide
+├── README.zh-CN.md              中文说明
+├── demo/                        demo film (59.9s)
 ├── references/
 │   ├── acceptance-rubric.md     the reusable pass line (dimensions + hard vetoes)
 │   ├── creative-brief.md        script / storyboard / visual-language format
