@@ -1,4 +1,4 @@
 interface:
-  display_name: "Promo Video Pipeline"
-  short_description: "Code-only product promo video pipeline with measurable, vision-model-assisted audit"
-  default_prompt: "Build a product promo video from code and real screenshots using this pipeline: acceptance bar, real assets, reference teardown, render, adversarial audit."
+  display_name: "xsai · 产品宣传视频制作"
+  short_description: "用代码与真实截图做产品宣传片，全流程可量化验收"
+  default_prompt: "Use $xsai-promo-video to build a product promo video from code and real screenshots: acceptance bar, real assets, reference teardown, render, adversarial audit."

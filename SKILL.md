@@ -1,5 +1,5 @@
 ---
-name: promo-video-pipeline
+name: xsai-promo-video
 description: >
   Make a product promo / feature / launch video entirely from code plus real product
   screenshots — no editor, no manual cutting. Use when someone wants a promo, feature
@@ -12,7 +12,7 @@ description: >
 license: MIT
 ---
 
-# Promo Video Pipeline
+# xsai · 产品宣传视频制作
 
 A repeatable way to produce a sharp product promo video **with code and real screenshots only** —
 built for people who don't edit video. The value is not the finished film; it is that **every

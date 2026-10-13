@@ -1,4 +1,6 @@
-# Promo Video Pipeline
+# xsai · 产品宣传视频制作
+
+`xsai-promo-video` — a code-only product promo video pipeline with measurable, vision-model-assisted audit.
 
 Build a product promo / feature / launch video **entirely from code plus real product screenshots** —
 no editor, no timeline scrubbing, no manual cutting. Built for people who can write code but don't
@@ -39,7 +41,7 @@ Then read `SKILL.md` and work the six steps. `references/pipeline-checklist.md` 
 ## Layout
 
 ```text
-promo-video-pipeline/
+xsai-产品宣传视频制作/
 ├── SKILL.md                     the entrypoint: workflow, non-negotiables, routing
 ├── references/
 │   ├── acceptance-rubric.md     the reusable pass line (dimensions + hard vetoes)
