@@ -6,7 +6,15 @@
 >
 > **本视频使用 DeepSeek 7 轮对话产出。** (Produced through 7 rounds of DeepSeek conversation — no manual editing.)
 
-<video src="demo/xsai-promo-video-demo.mp4" controls muted loop width="100%"></video>
+> **演示成片 / Demo film**（点击封面在新标签打开，或直接播放下方视频）
+
+<p align="center">
+  <a href="https://github.com/user-attachments/assets/d57bfc55-5acf-4f7f-b2da-78c640df4a79">
+    <img src="assets/demo-poster.jpg" alt="xsai · 产品宣传视频制作 — 演示成片封面" width="100%">
+  </a>
+</p>
+
+https://github.com/user-attachments/assets/d57bfc55-5acf-4f7f-b2da-78c640df4a79
 
 *59.9s · 1920×1080 · 30fps — 直接下载：[demo/xsai-promo-video-demo.mp4](demo/xsai-promo-video-demo.mp4)*
 
